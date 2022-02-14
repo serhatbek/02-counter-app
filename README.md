@@ -15,4 +15,4 @@ Counter app is a small Vanilla JS project to sharpen my JavaScript skills.
 
 ## Live
 
-You can check the project here. [▶ Counter App]().
+You can check the project here. [▶ Counter App](https://serhatbek.github.io/02-counter-app/).
